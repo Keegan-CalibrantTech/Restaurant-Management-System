@@ -1,0 +1,19 @@
+100,Chilly Paneer,150,1
+101,Chilly Chicken,200,1
+102,Aloo Matar,100,1
+103,Daal Tadka,150,1
+104,Steam Rice,100,1
+105,Dosa,100,1
+106,Idli,100,1
+107,Medu Wada,100,1
+200,Absolute Vodka,288,3
+201,Teachers 375ml,953,3
+202,Corona 355ml,280,3
+203,Antiquity Blue 60ml,70,3
+300,Coke - 100ml,20,2
+301,Thumbs Up - 100ml,20,2
+302,Sprite - 100ml,20,2
+303,Fresh Lime Soda/Water,50,2
+304,Mountain Dew - 100ml,20,2
+400,Dark Chocolate Truffle - 1pc,80,4
+401,Ice Cream (Chocolate/Vanilla/Mango),100,4
